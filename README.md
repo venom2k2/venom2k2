@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venom2k2
+- 👋 Hi, I’m vineet
 - 👀 I’m interested in learning and growing. 
 - 🌱 I’m currently learning php, js, html,java.
 - 📫 How to reach me . Contact- vin123eet2002@gmail.com
